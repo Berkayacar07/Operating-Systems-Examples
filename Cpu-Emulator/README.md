@@ -4,9 +4,9 @@ Assume that the computer has 256 bytes of available memory (M) initially set to 
 Assume that initially all flags are set to zero.
 
 ### Instruction Set
-![Instruction Set](https://github.com/Berkayacar07/CPU-Emulator/blob/main/instruction_set.jpg) 
+![Instruction Set](https://user-images.githubusercontent.com/86426656/215288958-d7964062-f256-4960-86e0-50dfa0a0ede0.jpg) 
 #### Sample text file             
-![Sample text file](https://github.com/Berkayacar07/CPU-Emulator/blob/main/text_format.jpg) 
+![Sample text file](https://user-images.githubusercontent.com/86426656/215288969-9d44645a-4f03-46ad-8ddd-0fff786f23f7.jpg)
 
 
 
